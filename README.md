@@ -1,5 +1,5 @@
 # Matheus Sanchez
-**Software Developer | Autodidact**
+**Software Developer**
 
 Desenvolvo ferramentas que eu gostaria de usar.
 
