@@ -19,11 +19,5 @@ Desenvolvedor de ferramentas e tutoriais de instalação. Projetos disponíveis 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" title="C" alt="C" /> 
 </p>
 
----
-
-### 📈 Estatísticas
 
 
-<a href="https://github.com/matheuspessole">
-  <img src="https://github-readme-stats.vercel.app/api?username=matheuspessole&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Estatísticas de Matheus" />
-</a>
