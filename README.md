@@ -6,7 +6,7 @@ Desenvolvo ferramentas que eu gostaria de usar.
 
 ---
 
-### 🛠 Stack
+### 🛠 Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40" title="Lua" alt="Lua" />
