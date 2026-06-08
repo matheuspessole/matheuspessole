@@ -1,8 +1,7 @@
 # Matheus Sanchez
 **Software Developer**
 
-Desenvolvo ferramentas que eu gostaria de usar.
-Além disso, desenvolvo tutoriais de instalação de programas em meus repositórios, dê uma olha, pode ser útil para você.
+Desenvolvo ferramentas que e tutoriais de instalação de programas em meus repositórios que eu gostaria de usar, dê uma olha, pode ser útil para você.
 
 ---
 
