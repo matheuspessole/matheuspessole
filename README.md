@@ -1,12 +1,11 @@
 # Matheus Sanchez
 **Software Developer**
 
-Desenvolvo ferramentas que eu gostaria de usar.
-
+Desenvolvo ferramentas que eu gostaria de usar e tutoriais de instalação de programas em meus repositórios.
 
 ---
 
-### 🛠 Linguagens e Tecnologias
+### 🛠 Stack Tecnológica
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40" title="Lua" alt="Lua" />
