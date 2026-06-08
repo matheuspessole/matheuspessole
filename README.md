@@ -1,7 +1,12 @@
 # Matheus Sanchez
 **Software Developer**
 
-Desenvolvo ferramentas que e tutoriais de instalação de programas em meus repositórios que eu gostaria de usar, dê uma olha, pode ser útil para você.
+Desenvolvedor de ferramentas e tutoriais de instalação. Desenvolvo o que eu gostaria de usar.
+
+
+<a href="https://linktree.com/seu-link-aqui">
+    <img alt="Linktree" title="Meu linktree" src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white" />
+</a>
 
 ---
 
