@@ -20,3 +20,10 @@ Desenvolvedor de ferramentas e tutoriais de instalação. Desenvolvo o que eu go
 </p>
 
 ---
+
+### 📈 Estatísticas
+
+
+<a href="https://github.com/matheuspessole">
+  <img src="https://github-readme-stats.vercel.app/api?username=matheuspessole&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true" alt="Estatísticas de Matheus" />
+</a>
