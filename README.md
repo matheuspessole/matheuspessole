@@ -1,7 +1,7 @@
 # 👾 | Matheus Sanchez
 **Software Developer**
 
-Desenvolvedor de ferramentas e tutoriais de instalação. Projetos disponíveis abaixo.
+Desenvolvedor de Software e Afins. Dê uma olhada em meus projetos!
 
 
 <a href="https://linktree.com/matheuspessole">
